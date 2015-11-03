@@ -1,0 +1,205 @@
+## Welcome to FreedomOpMod: Remastered's blocked commands config file - By Camzie99 ##
+
+## Rank is an integer from 0 - 8 for the minimum rank allowed to use the command. ##
+
+    ######################
+    ## 0 - Op           ##
+    ## 1 - Admin        ##
+    ## 2 - Super Admin  ##
+    ## 3 - Senior Admin ##
+    ## 4 - Executive    ##
+    ## 5 - Specialist   ##
+    ## 6 - System Admin ##
+    ## 7 - Owner        ##
+    ## 8 - None         ##
+    ######################
+    
+nuke:
+    message: You are not allowed to use /nuke.
+    rank: 1
+    kick: true
+
+pt:
+    message: You are not allowed to use /powertool.
+    rank: 8
+    kick: false
+
+powertool:
+    message: You are not allowed to use /powertool.
+    rank: 8
+    kick: false
+    
+kittycannon:
+    message: You are not allowed to use /kittycannon.
+    rank: 1
+    kick: false
+    
+fireball:
+    message: You are not allowed to use /fireball.
+    rank: 1
+    kick: false
+
+kickall:
+    message: "Don't try to kick all players."
+    rank: 1
+    kick: true
+
+tpall:
+    message: "Don't try to teleport all players."
+    rank: 1
+    kick: true
+    
+stop:
+    message: "Don't try to stop the server."
+    rank: 1
+    kick: true
+    
+restart:
+    message: "Don't try to restart the server."
+    rank: 1
+    kick: true
+
+rl:
+    message: "Don't try to reload the server."
+    rank: 1
+    kick: true
+    
+deop:
+    message: "Don't try to deop people."
+    rank: 1
+    kick: true
+
+sudo:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+
+tempban:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+pardon:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+strike:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+lightning:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+gamemode:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+
+gm:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+world:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false
+    
+playsound:
+    message: "Unknown command. Type\"help\" for help."
+    rank: 8
+    kick: false
+    
+kill:
+    message: "Don't try to kill other players."
+    rank: 1
+    kick: true
+    
+mail:
+    message: "Mail is blocked."
+    rank: 8
+    kick: false
+    
+break:
+    message: "Why would you need to use that command?"
+    rank: 8
+    kick: false
+    
+summon:
+    message: "Please use /mob for mob spawning."
+    rank: 8
+    kick: false
+  
+setblock:
+    message: "Please use worldedit for block setting."
+    rank: 8
+    kick: false
+    
+fill:
+    message: "Please use worldedit for block setting."
+    rank: 8
+    kick: false
+    
+ban-ip:
+    message: "Please use FOPM: R banning techniques to ban."
+    rank: 8
+    kick: false
+    
+deop:
+    message: "Don't try to deop players."
+    rank: 1
+    kick: false
+    
+tellraw:
+    message: "Please use /rawsay"
+    rank: 8
+    kick: false
+    
+socialspy:
+    message: "Only admins can use socialspy."
+    rank: 1
+    kick: false
+    
+lagg:
+    message: "Only admins can use clearlag."
+    rank: 1
+    kick: false
+    
+gal:
+    message: "Only admins can use GAListener."
+    rank: 1
+    kick: false
+    
+co:
+    message: "Only admins can use CoreProtect."
+    rank: 1
+    kick: false
+    
+core:
+    message: "Only admins can use CoreProtect."
+    rank: 1
+    kick: false  
+    
+coreprotect:
+    message: "Only admins can use CoreProtect."
+    rank: 1
+    kick: false
+    
+banip:
+    message: "Please use FOPM: R's banning commands."
+    rank: 8
+    kick: false
+    
+time:
+    message: "Only admins can set the time."
+    rank: 1
+    kick: false
+    
+gamerule:
+    message: "Unknown command. Type \"/help\" for help."
+    rank: 8
+    kick: false

@@ -1,0 +1,10 @@
+name: iFreedomManagement
+version: 1.9
+description: My attempt at making a freedom plugin.
+author: Camzie99, Chaosiity
+website: n/a
+ 
+main: net.camtech.fopmremastered.FreedomOpModRemastered
+database: false
+depend: [CamUtils]
+softdepend: [CamVerify, BukkitTelnet, BarAPI]

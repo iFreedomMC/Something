@@ -1,0 +1,1 @@
+The **FreedomOpMod: Remastered** is an all new type of freedom plugin, it takes the basic concepts and ideas of the TotalFreedomMod and executes them in different and more *flexible* ways. - Created and maintained by Camzie99. Got any ideas for the **FOPM: R** or have you found a bug? Be sure to post an issue in our tracker.

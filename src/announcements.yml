@@ -1,0 +1,6 @@
+## Welcome to FreedomOpMod: Remastered's announcements config file - By Camzie99 ##
+#ExampleAnnouncement:
+    #The message you want to send.
+    #message: "This is an example announcement."
+    #How long before the announcement repeats in seconds.
+    #time: 600
